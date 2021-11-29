@@ -1,0 +1,5 @@
+function HelloWorld()
+% 输出Hello World
+disp('Hello World')
+
+end

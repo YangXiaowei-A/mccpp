@@ -1,0 +1,12 @@
+function:10
+标识符:HelloWorld
+(:29
+):30
+标识符:disp
+(:29
+':36
+标识符:Hello
+标识符:World
+':36
+):30
+end:8
